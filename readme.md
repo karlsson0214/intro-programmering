@@ -1,5 +1,9 @@
 Ditt Namn Loggbok
 ==================
+24-09-23
+---------
+Gått igenom while-slingor.
+
 24-09-02
 --------
 Gjort:
