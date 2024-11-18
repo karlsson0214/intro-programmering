@@ -2,7 +2,7 @@ Ditt Namn Loggbok
 ==================
 24-11-18
 -----------
-[Fibonacci med listor.]("7100 listor/fibonacci.py")
+[Fibonacci med listor.](7100 listor/fibonacci.py)
 24-09-23
 ---------
 Gått igenom while-slingor.
