@@ -2,7 +2,8 @@ Ditt Namn Loggbok
 ==================
 24-11-18
 -----------
-[Fibonacci med listor.](https://github.com/karlsson0214/intro-programmering/7100_listor/fibonacci.py)
+[Fibonacci med listor.](https://github.com/karlsson0214/intro-programmering/blob/main/7100_listor/fibonacci.py)
+
 24-09-23
 ---------
 Gått igenom while-slingor.
