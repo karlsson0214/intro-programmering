@@ -4,6 +4,9 @@ Ditt Namn Loggbok
 -----------
 [Fibonacci med listor.](https://github.com/karlsson0214/intro-programmering/blob/main/7100_listor/fibonacci.py)
 
+[Fibonacci med listor.](7100_listor/fibonacci.py)
+
+
 24-09-23
 ---------
 Gått igenom while-slingor.
