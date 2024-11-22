@@ -1,9 +1,14 @@
 Ditt Namn Loggbok
 ==================
+
+24-11-22
+--------------
+[Välj del av lista](7100_listor/exempel_7_slice.py)
+
 24-11-18
 -----------
 
-[Fibonacci med listor.](7100_listor/fibonacci.py)
+[Fibonacci med listor.](7100_listor/exempel_6_fibonacci.py)
 
 
 24-09-23
