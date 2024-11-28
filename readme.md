@@ -1,6 +1,14 @@
 Ditt Namn Loggbok
 ==================
 
+24-11-25
+-----------
+Funktioner
+
+[exempel 1](7080_funktioner/exempel_1.py)
+
+[exempel 2](7080_funktioner/exempel_2.py)
+
 24-11-22
 --------------
 [Välj del av lista](7100_listor/exempel_7_slice.py)
