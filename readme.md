@@ -1,5 +1,14 @@
 Ditt Namn Loggbok
 ==================
+24-11-29
+-----------
+Funktioner
+
+[exempel 3](7080_funktioner/exempel_3.py)
+
+[exempel 4 max](7080_funktioner/exempel_4_max.py)
+
+[exempel 4 triangel](7080_funktioner/exempel_4_triangel.py)
 
 24-11-25
 -----------
