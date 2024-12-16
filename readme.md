@@ -1,5 +1,8 @@
 Ditt Namn Loggbok
 ==================
+24-12-16
+------------
+[exempel 7 primtal](7080_funktioner/exempel_7_primes.py)
 24-11-29
 -----------
 Funktioner
